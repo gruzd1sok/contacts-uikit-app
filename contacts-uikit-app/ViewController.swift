@@ -5,7 +5,6 @@
 //  Created by Илья Груздев on 22.07.2021.
 //
 
-import CoreTelephony
 import Contacts
 import ContactsUI
 import UIKit
